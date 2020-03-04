@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "Q",
+        "Q"
+    ],
+    
+    "key":
+    {
+        "Q":
+        {
+            "item": "lm:queensland_kauri_planks"
+        }
+    },
+    
+    "result":
+    {
+        "item": "lm:queensland_kauri_stick",
+        "count": 4
+    }
+}

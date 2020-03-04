@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "C",
+        "C"
+    ],
+    
+    "key":
+    {
+        "C":
+        {
+            "item": "lm:celery_planks"
+        }
+    },
+    
+    "result":
+    {
+        "item": "lm:celery_stick",
+        "count": 4
+    }
+}

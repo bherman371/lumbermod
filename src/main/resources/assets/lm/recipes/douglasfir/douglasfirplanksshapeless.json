@@ -1,0 +1,18 @@
+{ 
+    "type": "minecraft:crafting_shapeless",
+
+    "ingredients": 
+    [
+
+    {
+      "item": "lm:douglas_fir_log"
+    }
+    
+    ],
+
+    "result": 
+    {
+        "item": "lm:douglas_fir_planks",
+        "count": 4
+    }
+}

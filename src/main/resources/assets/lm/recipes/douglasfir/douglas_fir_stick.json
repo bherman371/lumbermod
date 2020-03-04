@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "D",
+        "D"
+    ],
+    
+    "key":
+    {
+        "D":
+        {
+            "item": "lm:douglas_fir_planks"
+        }
+    },
+    
+    "result":
+    {
+        "item": "lm:douglas_fir_stick",
+        "count": 4
+    }
+}

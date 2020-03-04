@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "H",
+        "H"
+    ],
+    
+    "key":
+    {
+        "H":
+        {
+            "item": "lm:huon_pine_planks"
+        }
+    },
+    
+    "result":
+    {
+        "item": "lm:huon_pine_stick",
+        "count": 4
+    }
+}

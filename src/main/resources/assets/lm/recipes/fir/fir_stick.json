@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "F",
+        "F"
+    ],
+    
+    "key":
+    {
+        "F":
+        {
+            "item": "lm:fir_planks"
+        }
+    },
+    
+    "result":
+    {
+        "item": "lm:fir_stick",
+        "count": 4
+    }
+}

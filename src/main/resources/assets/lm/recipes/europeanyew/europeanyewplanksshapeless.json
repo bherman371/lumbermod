@@ -1,0 +1,18 @@
+{ 
+    "type": "minecraft:crafting_shapeless",
+
+    "ingredients": 
+    [
+
+    {
+      "item": "lm:european_yew_log"
+    }
+    
+    ],
+
+    "result": 
+    {
+        "item": "lm:european_yew_planks",
+        "count": 4
+    }
+}

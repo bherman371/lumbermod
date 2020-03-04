@@ -1,0 +1,18 @@
+{ 
+    "type": "minecraft:crafting_shapeless",
+
+    "ingredients": 
+    [
+
+    {
+      "item": "lm:hemlock_log"
+    }
+    
+    ],
+
+    "result": 
+    {
+        "item": "lm:hemlock_planks",
+        "count": 4
+    }
+}

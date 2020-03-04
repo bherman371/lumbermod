@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "L",
+        "L"
+    ],
+    
+    "key":
+    {
+        "L":
+        {
+            "item": "lm:lava_planks"
+        }
+    },
+    
+    "result":
+    {
+        "item": "lm:lava_stick",
+        "count": 4
+    }
+}

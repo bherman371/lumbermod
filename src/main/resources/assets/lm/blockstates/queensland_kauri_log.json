@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "lm:queensland_kauri_log" }
+    }
+}

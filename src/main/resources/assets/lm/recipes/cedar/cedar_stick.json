@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "C",
+        "C"
+    ],
+    
+    "key":
+    {
+        "C":
+        {
+            "item": "lm:cedar_planks"
+        }
+    },
+    
+    "result":
+    {
+        "item": "lm:cedar_stick",
+        "count": 4
+    }
+}

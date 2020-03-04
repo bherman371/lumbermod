@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "lm:douglas_fir_log" }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "S",
+        "S"
+    ],
+    
+    "key":
+    {
+        "S":
+        {
+            "item": "lm:shimmer_planks"
+        }
+    },
+    
+    "result":
+    {
+        "item": "lm:shimmer_stick",
+        "count": 4
+    }
+}

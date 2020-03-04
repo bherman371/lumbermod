@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "E",
+        "E"
+    ],
+    
+    "key":
+    {
+        "E":
+        {
+            "item": "lm:european_yew_planks"
+        }
+    },
+    
+    "result":
+    {
+        "item": "lm:european_yew_stick",
+        "count": 4
+    }
+}

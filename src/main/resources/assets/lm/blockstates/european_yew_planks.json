@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "lm:european_yew_planks" }
+    }
+}

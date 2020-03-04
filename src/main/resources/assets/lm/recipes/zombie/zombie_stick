@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "Z",
+        "Z"
+    ],
+    
+    "key":
+    {
+        "Z":
+        {
+            "item": "lm:zombie_planks"
+        }
+    },
+    
+    "result":
+    {
+        "item": "lm:zombie_stick",
+        "count": 4
+    }
+}

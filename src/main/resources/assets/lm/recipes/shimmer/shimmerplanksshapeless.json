@@ -1,0 +1,18 @@
+{ 
+    "type": "minecraft:crafting_shapeless",
+
+    "ingredients": 
+    [
+
+    {
+      "item": "lm:shimmer_log"
+    }
+    
+    ],
+
+    "result": 
+    {
+        "item": "lm:shimmer_planks",
+        "count": 4
+    }
+}

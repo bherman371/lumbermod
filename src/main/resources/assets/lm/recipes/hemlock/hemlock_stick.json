@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "H",
+        "H"
+    ],
+    
+    "key":
+    {
+        "H":
+        {
+            "item": "lm:hemlock_planks"
+        }
+    },
+    
+    "result":
+    {
+        "item": "lm:hemlock_stick",
+        "count": 4
+    }
+}

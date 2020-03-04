@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "K",
+        "K"
+    ],
+    
+    "key":
+    {
+        "K":
+        {
+            "item": "lm:kauri_planks"
+        }
+    },
+    
+    "result":
+    {
+        "item": "lm:kauri_stick",
+        "count": 4
+    }
+}

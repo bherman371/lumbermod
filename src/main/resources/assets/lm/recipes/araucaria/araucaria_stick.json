@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "A",
+        "A"
+    ],
+    
+    "key":
+    {
+        "A":
+        {
+            "item": "lm:araucaria_planks"
+        }
+    },
+    
+    "result":
+    {
+        "item": "lm:araucaria_stick",
+        "count": 4
+    }
+}

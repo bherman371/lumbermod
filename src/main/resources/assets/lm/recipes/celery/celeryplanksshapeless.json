@@ -1,0 +1,18 @@
+{ 
+    "type": "minecraft:crafting_shapeless",
+
+    "ingredients": 
+    [
+
+    {
+      "item": "lm:celery_log"
+    }
+    
+    ],
+
+    "result": 
+    {
+        "item": "lm:celery_planks",
+        "count": 4
+    }
+}
